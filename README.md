@@ -6,3 +6,5 @@
 * Praktikum-a1: Pengenalan Variabel `praktikum-a1.py`
 * Praktikum-a2: Operator `praktikum-a2.py`
 * Tugas a4: Operator `praktikum-a2.py`
+* Tugas-a3: Manipulasi String `tugas-a3_Saylandra.py`
+* Tugas-9-A: Membuat dan Menampilkan Biodata dengan Dictionary `231031028-Saylandra-tugas-9-A.py`
